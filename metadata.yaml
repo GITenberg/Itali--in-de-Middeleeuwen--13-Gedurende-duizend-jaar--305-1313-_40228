@@ -1,0 +1,28 @@
+_repo: Itali--in-de-Middeleeuwen--13-Gedurende-duizend-jaar--305-1313-_40228
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40228-h/images/new-cover-tn.jpg
+creator:
+  author:
+    agent_name: Cotterill, H. B. (Henry Bernard)
+    alias: Cotterill, Henry Bernard
+    birthdate: 1846
+    deathdate: 1924
+    gutenberg_agent_id: '31537'
+    url: http://www.gutenberg.org/2009/agents/31537
+description: ''
+gutenberg_issued: '2012-07-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40228'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italy -- History -- 476-1492'
+- !lcsh 'Italy -- History -- To 476'
+- !lcc 'DG'
+title: 'Italië in de Middeleeuwen: Gedurende duizend jaar (305-1313)'
+url: http://www.gutenberg.org/ebooks/40228
